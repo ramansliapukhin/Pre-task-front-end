@@ -3,7 +3,7 @@ body {
     width: 80%;
     margin: 0 auto;
     background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(21,238,132,1) 30%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(11deg, rgba(2,0,36,1) 0%, rgba(21,238,132,1) 30%, rgba(27,168,196,1) 100%); 
     font-family: 'Roboto', sans-serif;
     color: #2A2E2D;
     border: 10px solid #043442;
